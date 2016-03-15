@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+<employee id="1">
+    <fname>Asad</fname>
+    <lname>Ahmed</lname>
+    <street>SS16</street>
+    <city>Subang Jaya</city>
+    <country>Malaysia</country>
+    <postCode>47500</postCode>
+    <phone>123456</phone>
+    <email>izhar_haq235@live.com</email>
+  </employee>
+<employee id="2">
+    <fname>Fayzan</fname>
+    <lname>Siddiqui</lname>
+    <street>SS15</street>
+    <city>Subang Jaya</city>
+    <country>Malaysia</country>
+    <postCode>47500</postCode>
+    <phone>123456</phone>
+    <email>fayzandotcom@hotmail.com</email>
+  </employee>
+<employee id="3">
+    <fname>Rehmat</fname>
+    <lname>Ali</lname>
+    <street>Jalan D15</street>
+    <city>Kuala Lumpur</city>
+    <country>Malaysia</country>
+    <postCode>47500</postCode>
+    <phone>123456</phone>
+    <email>rehmat@hotmail.com</email>
+  </employee>
+</employees>

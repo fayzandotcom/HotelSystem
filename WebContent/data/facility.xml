@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facilitys>
+<facility id="1">
+    <name>Swiming Pool</name>
+    <desc>8 feet</desc>
+  </facility>
+<facility id="2">
+    <name>Mini Market</name>
+    <desc>All grousery stuff</desc>
+  </facility>
+<facility id="3">
+    <name>Gymnasium</name>
+    <desc>All wait loose machines are avaliable</desc>
+  </facility>
+</facilitys>

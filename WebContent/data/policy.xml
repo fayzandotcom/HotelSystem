@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<policies>
+<policy id="1">
+    <name>Check-out time</name>
+    <desc>12:00 AM</desc>
+  </policy>
+<policy id="2">
+    <name>Cancelation period</name>
+    <desc>3 days</desc>
+  </policy>
+<policy id="3">
+    <name>Check-in time</name>
+    <desc>12:00 AM</desc>
+  </policy>
+</policies>

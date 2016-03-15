@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+
+  <display-name>HotelSystem</display-name>
+  
+  <context-param>
+    <param-name>APP-NAME</param-name>
+    <param-value>HotelSystem</param-value>
+  </context-param>
+  
+  <welcome-file-list>
+    <welcome-file>jsp/main/index.jsp</welcome-file>
+  </welcome-file-list>
+  
+    <filter>
+    <filter-name>LoginFilter</filter-name>
+    <filter-class>
+	       com.apu.request.filter.LoginFilter
+	    </filter-class>
+    <init-param>
+      <param-name>loginPage</param-name>
+      <param-value>/jsp/auth/login.jsp</param-value>
+    </init-param>
+    <init-param>
+      <param-name>excludedPages</param-name>
+      <param-value>
+				/jsp/auth/*,
+				/jsp/main/*
+			</param-value>
+    </init-param>
+    <init-param>
+      <param-name>adminPages</param-name>
+      <param-value>
+				/jsp/admin/*,
+			</param-value>
+    </init-param>
+  </filter>
+  <filter-mapping>
+    <filter-name>LoginFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+  
+</web-app>

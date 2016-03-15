@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hotelPolicies>
+<hotelPolicy id="1">
+    <hotelId>3</hotelId>
+    <policyId>1</policyId>
+  </hotelPolicy>
+
+<hotelPolicy id="3">
+    <hotelId>4</hotelId>
+    <policyId>3</policyId>
+  </hotelPolicy>
+<hotelPolicy id="5">
+    <hotelId>3</hotelId>
+    <policyId>2</policyId>
+  </hotelPolicy>
+<hotelPolicy id="6">
+    <hotelId>3</hotelId>
+    <policyId>3</policyId>
+  </hotelPolicy>
+</hotelPolicies>

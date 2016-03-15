@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hotelFoods>
+<hotelFood id="1">
+    <hotelId>3</hotelId>
+    <foodId>1</foodId>
+  </hotelFood>
+<hotelFood id="3">
+    <hotelId>4</hotelId>
+    <foodId>1</foodId>
+  </hotelFood>
+<hotelFood id="4">
+    <hotelId>3</hotelId>
+    <foodId>2</foodId>
+  </hotelFood>
+<hotelFood id="5">
+    <hotelId>3</hotelId>
+    <foodId>3</foodId>
+  </hotelFood>
+</hotelFoods>

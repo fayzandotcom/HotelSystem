@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hotelFacilies>
+<hotelFacility id="1">
+    <hotelId>3</hotelId>
+    <facilityId>1</facilityId>
+  </hotelFacility>
+<hotelFacility id="2">
+    <hotelId>3</hotelId>
+    <facilityId>2</facilityId>
+  </hotelFacility>
+<hotelFacility id="3">
+    <hotelId>6</hotelId>
+    <facilityId>2</facilityId>
+  </hotelFacility>
+</hotelFacilies>

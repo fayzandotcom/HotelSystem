@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<foods>
+<food id="1">
+    <name>Biryani</name>
+    <desc>Chicken with Rice</desc>
+  </food>
+<food id="2">
+    <name>Pizza</name>
+    <desc>Different flavours</desc>
+  </food>
+<food id="3">
+    <name>Burger</name>
+    <desc>Beef and Chicken burger</desc>
+  </food>
+
+</foods>

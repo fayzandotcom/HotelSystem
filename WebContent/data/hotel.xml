@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hotels>
+<hotel id="3">
+    <name>Shereton hotel</name>
+    <street>B16</street>
+    <city>Putra Jaya</city>
+    <country>Malaysia</country>
+    <postCode>47500</postCode>
+    <status>5</status>
+    <phone>123456</phone>
+    <empId>3</empId>
+  </hotel>
+<hotel id="4">
+    <name>Meriott Hotel</name>
+    <street>SS16</street>
+    <city>Subang Jaya</city>
+    <country>Malaysia</country>
+    <postCode>47500abc</postCode>
+    <status>5</status>
+    <phone>123456</phone>
+    <empId>2</empId>
+  </hotel>
+<hotel id="5">
+    <name>Mehran Hotel</name>
+    <street>A-13</street>
+    <city>Kuala Lumpur</city>
+    <country>Malaysia</country>
+    <postCode>8787</postCode>
+    <status>4</status>
+    <phone>78787</phone>
+    <empId>1</empId>
+  </hotel>
+<hotel id="6">
+    <name>PC Hotel</name>
+    <street>Jalan D15</street>
+    <city>Kuala Lumpur</city>
+    <country>Malaysia</country>
+    <postCode>47500</postCode>
+    <status>5</status>
+    <phone>123456</phone>
+    <empId>1</empId>
+  </hotel>
+
+<hotel id="7">
+    <name>Summit Hotel</name>
+    <street>SS12</street>
+    <city>Subang Jaya</city>
+    <country>Malaysia</country>
+    <postCode>47503</postCode>
+    <status>4</status>
+    <phone>123456</phone>
+    <empId>2</empId>
+  </hotel>
+</hotels>
